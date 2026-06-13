@@ -1,0 +1,272 @@
+{
+  "mode": "llm",
+  "top_k": 6,
+  "hotspots": [
+    {
+      "hotspot_id": "H01",
+      "title": "中国新能源重卡与BYD全球扩张",
+      "summary": "中国政府目标2030年新能源重卡渗透率达40%，BYD同步在欧洲推出Dolphin G DM-i定价并在匈牙利储能项目上线，在海外部署1500kW超级快充桩，显示中国新能源产业链全球化加速。",
+      "category": "trend",
+      "overall_heat_score": 88,
+      "coverage": {
+        "source_count": 2,
+        "companies": [
+          "BYD",
+          "Geely"
+        ],
+        "platforms": [
+          "cnevpost",
+          "carnewschina"
+        ]
+      },
+      "should_chase": "yes",
+      "chase_rationale": [
+        "中国新能源政策信号级别高(S)",
+        "BYD海外扩张覆盖欧洲与充电基础设施",
+        "多来源共振"
+      ],
+      "samples": [
+        {
+          "platform": "cnevpost",
+          "title": "China targets 40% penetration for new-energy heavy trucks by 2030",
+          "url": "https://cnevpost.com/2026/06/13/china-targets-40-penetration-new-energy-heavy-trucks-2030/",
+          "published_at": "2026-06-13T08:31:20Z",
+          "company": null,
+          "signal_level": "S"
+        },
+        {
+          "platform": "cnevpost",
+          "title": "BYD energy storage powers Hungary's largest battery project online",
+          "url": "https://cnevpost.com/2026/06/13/byd-energy-storage-hungary-battery/",
+          "published_at": "2026-06-13T08:00:00Z",
+          "company": "BYD",
+          "signal_level": "S"
+        },
+        {
+          "platform": "carnewschina",
+          "title": "BYD Dolphin G DM-i revealed prices for Europe with deliveries set for autumn",
+          "url": "https://carnewschina.com/2026/06/13/byd-dolphin-g-dmi-europe-price/",
+          "published_at": "2026-06-13T07:00:00Z",
+          "company": "BYD",
+          "signal_level": "S"
+        }
+      ]
+    },
+    {
+      "hotspot_id": "H02",
+      "title": "SpaceX IPO上市",
+      "summary": "SpaceX完成历史性IPO，首日涨幅19%，诞生全球首位万亿美元富豪，TechCrunch三篇连续报道，市场热度极高。",
+      "category": "trend",
+      "overall_heat_score": 92,
+      "coverage": {
+        "source_count": 1,
+        "companies": [
+          "SpaceX"
+        ],
+        "platforms": [
+          "techcrunch-transport"
+        ]
+      },
+      "should_chase": "yes",
+      "chase_rationale": [
+        "单平台三篇高密度覆盖",
+        "IPO事件具有里程碑意义",
+        "科技/商业影响广泛"
+      ],
+      "samples": [
+        {
+          "platform": "techcrunch-transport",
+          "title": "SpaceX IPO closes up 19% and delivers the world's first trillionaire",
+          "url": "https://techcrunch.com/2026/06/13/spacex-ipo-closes/",
+          "published_at": "2026-06-13T06:00:00Z",
+          "company": "SpaceX",
+          "signal_level": "B"
+        },
+        {
+          "platform": "techcrunch-transport",
+          "title": "SpaceX IPO: Live updates on everything you need to know",
+          "url": "https://techcrunch.com/2026/06/13/spacex-ipo-live/",
+          "published_at": "2026-06-13T05:00:00Z",
+          "company": "SpaceX",
+          "signal_level": "B"
+        },
+        {
+          "platform": "techcrunch-transport",
+          "title": "The SpaceX IPO has finally arrived — here's what TechCrunch editors think so far",
+          "url": "https://techcrunch.com/2026/06/13/spacex-ipo-editors/",
+          "published_at": "2026-06-13T04:00:00Z",
+          "company": "SpaceX",
+          "signal_level": "B"
+        }
+      ]
+    },
+    {
+      "hotspot_id": "H03",
+      "title": "新款电动车型集中发布：Rivian R2、Toyota EV皮卡、BMW M3电动版",
+      "summary": "Rivian R2正式发布并确认后续车型路线图；丰田开启全新纯电体积越野皮卡预订，起售价低于6万美元；宝马M3纯电版即将推出，BMW Neue Klasse M概念亮相，电动车型竞争全面加速。",
+      "category": "trend",
+      "overall_heat_score": 85,
+      "coverage": {
+        "source_count": 4,
+        "companies": [
+          "Rivian",
+          "Toyota",
+          "BMW"
+        ],
+        "platforms": [
+          "insideevs",
+          "electrek",
+          "thedriven",
+          "theverge-transport"
+        ]
+      },
+      "should_chase": "yes",
+      "chase_rationale": [
+        "多平台交叉报道",
+        "各大OEM电动化关键车型节点",
+        "消费者关注度高"
+      ],
+      "samples": [
+        {
+          "platform": "insideevs",
+          "title": "The Rivian R2 Is Finally Here. The CEO Just Shared When To Expect More Models",
+          "url": "https://insideevs.com/news/rivian-r2/",
+          "published_at": "2026-06-13T08:00:00Z",
+          "company": "Rivian",
+          "signal_level": "A"
+        },
+        {
+          "platform": "electrek",
+          "title": "Toyota opens orders for its first body-on-frame EV pickup, starting at under 0k",
+          "url": "https://electrek.co/2026/06/13/toyota-ev-pickup/",
+          "published_at": "2026-06-13T07:30:00Z",
+          "company": "Toyota",
+          "signal_level": "A"
+        },
+        {
+          "platform": "theverge-transport",
+          "title": "BMW's Neue Klasse M concept brings next-gen EV tech to motorsports",
+          "url": "https://www.theverge.com/transportation/bmw-neue-klasse-m",
+          "published_at": "2026-06-13T06:00:00Z",
+          "company": "BMW",
+          "signal_level": "B"
+        }
+      ]
+    },
+    {
+      "hotspot_id": "H04",
+      "title": "华为HarmonyOS 7全面升级：Agent架构重构",
+      "summary": "华为在HDC 2026发布HarmonyOS 7开发者Beta，引入完整Agent架构，五维升级覆盖AI、分布式、安全、性能与生态，标志国产OS进入AI-Native时代。",
+      "category": "single",
+      "overall_heat_score": 90,
+      "coverage": {
+        "source_count": 1,
+        "companies": [
+          "Huawei"
+        ],
+        "platforms": [
+          "pandaily"
+        ]
+      },
+      "should_chase": "yes",
+      "chase_rationale": [
+        "A级信号源",
+        "两篇专题报道",
+        "OS+AI深度整合战略意义重大"
+      ],
+      "samples": [
+        {
+          "platform": "pandaily",
+          "title": "Huawei's HarmonyOS 7 Developer Beta Debuts With Full Agent Architecture Overhaul",
+          "url": "https://pandaily.com/huaweis-harmonyos-7-developer-beta/",
+          "published_at": "2026-06-13T08:00:00Z",
+          "company": "Huawei",
+          "signal_level": "A"
+        },
+        {
+          "platform": "pandaily",
+          "title": "HDC 2026 Showcases HarmonyOS 7's Five-Dimensional Upgrade and Surging Ecosystem",
+          "url": "https://pandaily.com/hdc-2026-harmonyos-7/",
+          "published_at": "2026-06-13T07:00:00Z",
+          "company": "Huawei",
+          "signal_level": "A"
+        }
+      ]
+    },
+    {
+      "hotspot_id": "H05",
+      "title": "固态电池与电池技术重大突破",
+      "summary": "SOLiTHOR固态电解质在堆栈级别达到465 Wh/kg并通过钉刺测试；Dukosi、A123与Nuvation联合推出芯片级无接触LFP电池监控方案；新一代电池技术商业化加速。",
+      "category": "single",
+      "overall_heat_score": 82,
+      "coverage": {
+        "source_count": 1,
+        "companies": [
+          "SOLiTHOR",
+          "Dukosi",
+          "A123"
+        ],
+        "platforms": [
+          "chargedevs"
+        ]
+      },
+      "should_chase": "yes",
+      "chase_rationale": [
+        "A/B级源，技术突破信号",
+        "固态电池465Wh/kg为当前最高水平之一",
+        "产业影响深远"
+      ],
+      "samples": [
+        {
+          "platform": "chargedevs",
+          "title": "SOLiTHOR's solid-state electrolyte hits 465 Wh/kg at stack level, passes nail penetration test",
+          "url": "https://chargedevs.com/2026/06/13/solith or-solid-state/",
+          "published_at": "2026-06-13T07:00:00Z",
+          "company": "SOLiTHOR",
+          "signal_level": "B"
+        },
+        {
+          "platform": "chargedevs",
+          "title": "Dukosi, A123 and Nuvation combine chip-on-cell contactless monitoring with LFP cells",
+          "url": "https://chargedevs.com/2026/06/13/dukosi-a123-nuvation/",
+          "published_at": "2026-06-13T06:30:00Z",
+          "company": "Dukosi",
+          "signal_level": "B"
+        }
+      ]
+    },
+    {
+      "hotspot_id": "H06",
+      "title": "AI原生金融产品：Kimi与国有银行联合发布AI信用卡",
+      "summary": "Kimi与国有银行合作推出全球首张AI-Native信用卡，将大模型能力嵌入金融服务，是AI在垂直行业落地的重要里程碑，标志中国AI应用进入金融主流。",
+      "category": "single",
+      "overall_heat_score": 80,
+      "coverage": {
+        "source_count": 1,
+        "companies": [
+          "Kimi",
+          "Moonshot AI"
+        ],
+        "platforms": [
+          "pandaily"
+        ]
+      },
+      "should_chase": "yes",
+      "chase_rationale": [
+        "A级信号源",
+        "AI+金融跨界融合创新",
+        "国有银行背书可信度高"
+      ],
+      "samples": [
+        {
+          "platform": "pandaily",
+          "title": "Kimi and State-Owned Bank Launch World's First AI-Native Credit Card",
+          "url": "https://pandaily.com/kimi-ai-native-credit-card/",
+          "published_at": "2026-06-13T09:00:00Z",
+          "company": "Kimi",
+          "signal_level": "A"
+        }
+      ]
+    }
+  ]
+}
